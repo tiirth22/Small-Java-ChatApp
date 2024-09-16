@@ -1,9 +1,9 @@
-#🗨Small Java ChatApp
+🗨Small Java ChatApp
 Welcome to the Small Java ChatApp, where Java meets real-time conversation! Whether you're looking to chat with friends or dive into networking concepts, this lightweight console-based app is the perfect starting point.
 
 "Great things happen when we connect!" – Anonymous
 
-##✨ What's Inside?
+✨ What's Inside?
 💬 Real-time Messaging: Instant messaging with anyone connected to the server.
 🔄 Server-Client Architecture: The server seamlessly handles multiple clients through multithreading.
 📡 Private Conversations: Communicate directly with specific users in private messages.
